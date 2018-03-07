@@ -40,6 +40,6 @@ class MyTest : PApplet() {
 }
 
 fun main(args: Array<String>) {
-    PApplet.main(arrayOf("MyTest"));
+    PApplet.main(arrayOf("MyTest"))
 }
 
