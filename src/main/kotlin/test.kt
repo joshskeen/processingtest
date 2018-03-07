@@ -5,7 +5,7 @@ class MyTest : PApplet() {
 
     override fun settings() {
         super.settings()
-        size(500, 500);
+        size(500, 500)
     }
 
     override fun draw() {
